@@ -10,7 +10,7 @@ Welcome to my collection of Google Colab notebooks for AI tools. This repository
 
 | Notebook Name | Description | Link | Video Tutorial |
 | :--- | :--- | :--- | :--- |
-| **HeartMuLa 3B Music Generator** | Free & Open Source AI Music Generation. BF16 Optimized for Colab Free Tier. | [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="28" alt="Open In Colab"/>](https://colab.research.google.com/github/Learnwithpeterandstewie/HeartMuLa-3B/blob/main/learnwithperandstewie.ipynb) | [![Video Tutorial](https://img.shields.io/badge/Video-Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@learnwithpeter) |
+| **HeartMuLa 3B Music Generator** | Free & Open Source AI Music Generation. BF16 Optimized for Colab Free Tier. | [<img src="https://colab.research.google.com/assets/colab-badge.svg" height="28" alt="Open In Colab"/>](https://colab.research.google.com/github/Learnwithpeterandstewie/free-voice-cloner/blob/main/learnwithperandstewie.ipynb) | [![Video Tutorial](https://img.shields.io/badge/Video-Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@learnwithpeter) |
 
 ## How to use
 
