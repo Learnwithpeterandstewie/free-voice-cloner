@@ -4,8 +4,8 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square&logo=python)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-Open%20Source-green?style=flat-square)](LICENSE)
-[![Google Colab](https://img.shields.io/badge/Open%20in-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/[YOUR-USERNAME]/HeartMuLa-3B/blob/main/HeartMuLa_by_AIQUEST%20(1).ipynb)
-[![GitHub Stars](https://img.shields.io/github/stars/[YOUR-USERNAME]/HeartMuLa-3B?style=flat-square&color=yellow)](https://github.com/[YOUR-USERNAME]/HeartMuLa-3B/stargazers)
+[![Google Colab](https://img.shields.io/badge/Open%20in-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab)](https://colab.research.google.com/github/Learnwithpeterandstewie/HeartMuLa-3B/blob/main/HeartMuLa_by_AIQUEST%20(1).ipynb)
+[![GitHub Stars](https://img.shields.io/github/stars/Learnwithpeterandstewie/HeartMuLa-3B?style=flat-square&color=yellow)](https://github.com/Learnwithpeterandstewie/HeartMuLa-3B/stargazers)
 
 ### Generate Professional AI Music on Google Colab's Free Tier 🎼
 
@@ -24,11 +24,11 @@
 
 <div align="center">
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[YOUR-USERNAME]/HeartMuLa-3B/blob/main/HeartMuLa_by_AIQUEST%20(1).ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Learnwithpeterandstewie/HeartMuLa-3B/blob/main/HeartMuLa_by_AIQUEST%20(1).ipynb)
 
 **OR** paste this link in your browser:
 ```
-https://colab.research.google.com/github/[YOUR-USERNAME]/HeartMuLa-3B/blob/main/HeartMuLa_by_AIQUEST%20(1).ipynb
+https://colab.research.google.com/github/Learnwithpeterandstewie/HeartMuLa-3B/blob/main/HeartMuLa_by_AIQUEST%20(1).ipynb
 ```
 
 </div>
@@ -321,7 +321,7 @@ Love this tool? Follow for more AI & music resources:
 |----------|------|---------|
 | 🔴 **YouTube** | [@learnwithpeter](https://youtube.com/@learnwithpeter) | Tutorials & AI guides |
 | 📸 **Instagram** | [@learnwithpeterandstewie](https://instagram.com/learnwithpeterandstewie) | Behind-the-scenes & tips |
-| ⭐ **GitHub** | [Follow](https://github.com/[YOUR-USERNAME]) | Latest updates & projects |
+| ⭐ **GitHub** | [Follow](https://github.com/Learnwithpeterandstewie) | Latest updates & projects |
 
 </div>
 
@@ -331,10 +331,10 @@ Love this tool? Follow for more AI & music resources:
 
 <div align="center">
 
-[🎵 **Open in Colab**](https://colab.research.google.com/github/[YOUR-USERNAME]/HeartMuLa-3B/blob/main/HeartMuLa_by_AIQUEST%20(1).ipynb) • 
+[🎵 **Open in Colab**](https://colab.research.google.com/github/Learnwithpeterandstewie/HeartMuLa-3B/blob/main/HeartMuLa_by_AIQUEST%20(1).ipynb) • 
 [📖 **View Docs**](#-usage-guide) • 
-[🐛 **Report Issue**](https://github.com/[YOUR-USERNAME]/HeartMuLa-3B/issues) • 
-[⭐ **Star This Repo**](https://github.com/[YOUR-USERNAME]/HeartMuLa-3B)
+[🐛 **Report Issue**](https://github.com/Learnwithpeterandstewie/HeartMuLa-3B/issues) • 
+[⭐ **Star This Repo**](https://github.com/Learnwithpeterandstewie/HeartMuLa-3B)
 
 </div>
 
@@ -343,7 +343,7 @@ Love this tool? Follow for more AI & music resources:
 ## 📞 Support & Feedback
 
 Have questions or suggestions? 
-- 💬 **Open an Issue:** [GitHub Issues](https://github.com/[YOUR-USERNAME]/HeartMuLa-3B/issues)
+- 💬 **Open an Issue:** [GitHub Issues](https://github.com/Learnwithpeterandstewie/HeartMuLa-3B/issues)
 - 📧 **Connect:** Follow us on social media (links above)
 - ⭐ **Show Support:** Star this repository if you find it helpful!
 
